@@ -8,6 +8,7 @@
 
 # prompt: import tensorflow and pennylane
 
-import tensorflow as tf
-import pennylane as qml
-import numpy as np
+def import():
+  import tensorflow as tf
+  import pennylane as qml
+  import numpy as np
